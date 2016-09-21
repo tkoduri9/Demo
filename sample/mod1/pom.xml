@@ -20,8 +20,6 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  <profiles>
-	 <profile>
 		 <id>test1</id>
 	 <build>
 	 
@@ -63,8 +61,7 @@
 	 </plugins>
 	 
 	 </build>
-	 </profile>
-	</profiles>
+
   <dependencies>
      <dependency>
 		 <groupId>junit</groupId>
